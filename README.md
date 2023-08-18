@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Kiran Parate</h1>
 <h3 align="left">I am currently pursuing a backend developer course and I'm passionate about learning and growing in the world of software development. I'm excited to connect with like-minded and passionate individuals on this journey.</h3>
 
-<img align="right" alt="coding" width="400" src="[[https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966](https://tenor.com/en-IN/view/who-asked-gif-25956246)](https://media.tenor.com/IGyOkb1TufkAAAAC/who-asked.gif)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 - 🔭 I’m currently learning **Full Stack Web Development Course**
 - 🌱 I'm excited about diving into databases, APIs, server-side programming, and more.
