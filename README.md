@@ -26,9 +26,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/np-parate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/np-parate/" height="45" width="45" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nikitaparate193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nikitaparate193" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/niksparate2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/niksparate2/" height="45" width="45" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/np-parate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/np-parate/" height="35" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/nikitaparate193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nikitaparate193" height="35" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/niksparate2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/niksparate2/" height="35" width="40" /></a>
 </p>
 
 
